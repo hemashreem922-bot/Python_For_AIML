@@ -2,7 +2,7 @@ a = [1,2,3,4,5]
 print(a)
 print(type(a))
 print(type (a[0]))
-print (a[0]
+print(a[0])
 ar = [[1,2],[2,3]]
 print(ar)
 print(type(ar))
